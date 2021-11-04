@@ -1,0 +1,13 @@
+Jumlah kapasitas gelas A: 1000L
+
+Jumlah kapasitas gelas B: 700L
+
+Jumlah kapasitas gelas C: 300L
+
+Jumlah kapasitas gelas D: 100L
+
+Gelas A dituang 1000L, sehingga mengalir 500L ke gelas B (1000L- 500L= 500)
+
+dari gelas B mengalir 150L ke gelas C (500L- 350L= 150L)
+
+dari gelas C mengalir 0L ke gelas D karena lubang di tengah gelas C sejajar dengan debit air yang ada di gelas C, sehingga tidak ada air yang mengalir ke gelas D
